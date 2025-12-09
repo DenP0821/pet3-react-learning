@@ -1,6 +1,6 @@
 export const awards = [
   {
-    year: "2021",
+    year: "2022",
     title: "Best Developer",
     institution: "Front Dev Experts Ltd.",
   },

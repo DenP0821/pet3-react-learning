@@ -4,7 +4,7 @@ export const skills = [
     level: "95%",
   },
   {
-    skill: "CSS",
+    skill: "CSS/SCSS",
     level: "85%",
   },
   {
@@ -12,11 +12,11 @@ export const skills = [
     level: "85%",
   },
   {
-    skill: "jQuery",
+    skill: "React",
     level: "80%",
   },
   {
-    skill: "PHP",
+    skill: "TypeScript",
     level: "75%",
   },
 ];

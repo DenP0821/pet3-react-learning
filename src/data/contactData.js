@@ -19,7 +19,7 @@ export const contactData = [
     id: 3,
     icon: FaLocationDot,
     title: "Official Address",
-    value: "Russian Federation, Dubininskaya st, 20/1",
+    value: "Russian Federation, Moscow, Dubininskaya st, 20/1",
     link: "https://yandex.ru/maps/213/moscow/house/dubininskaya_ulitsa_20s1/Z04YcARmTEMEQFtvfXtzd35nYA==/?ll=37.636501%2C55.725922&z=19.6",
   },
 ];

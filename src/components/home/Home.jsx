@@ -60,7 +60,7 @@ const Home = () => {
             custom={1}
             variants={slideInVariants("left", 0.5, 60, true)}
           >
-            Front-end Developer
+            Frontend Developer
           </motion.h3>
           <motion.p
             initial="hidden"
@@ -91,7 +91,7 @@ const Home = () => {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: false, amount: 0.5 }}
-          variants={slideInVariants("right", 0.9, 100, false)}
+          variants={slideInVariants("right", 0.9, 130, false)}
         >
           <img src={mainImg} alt="man" />
         </motion.div>

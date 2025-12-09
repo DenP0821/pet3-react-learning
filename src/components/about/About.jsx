@@ -39,7 +39,7 @@ const About = () => {
                 custom={0}
                 variants={slideInVariants("right", 0.7, 60, true)}
               >
-                A Lead <span>Front-End Developer</span> based in{" "}
+                A Lead <span>Frontend Developer</span> based in{" "}
                 <span>Moscow</span>
               </motion.h4>
               <motion.p

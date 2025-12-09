@@ -30,7 +30,7 @@
   z-index: 10;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .portfolio-img-card .info {
@@ -58,10 +58,18 @@
 
 .img-card h3 {
   font-size: 32px;
+  color: var(--second-color);
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  padding: 1px 5px;
 }
 
 .img-card span {
   font-size: 22px;
+  color: var(--second-color);
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  padding: 1px 5px;
 }
 
 .portfolio-modal {
@@ -85,7 +93,7 @@
 .portfolio-modal.active {
   visibility: visible;
   opacity: 1;
-  z-index: 11;
+  z-index: 12;
 }
 
 .portfolio-modal-body {

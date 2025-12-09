@@ -78,6 +78,7 @@
   visibility: visible;
   opacity: 1;
   transition: 0.3s linear;
+  z-index: 12;
 }
 
 .service-modal-body {

@@ -15,3 +15,11 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 450px) {
+  .theme-btn {
+    width: 37px;
+    height: 37px;
+    font-size: 16px;
+  }
+}

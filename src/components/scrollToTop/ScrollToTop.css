@@ -26,3 +26,11 @@
   visibility: visible;
   right: 20px;
 }
+
+@media (max-width: 450px) {
+  .scrollToTop {
+    width: 37px;
+    height: 37px;
+    font-size: 16px;
+  }
+}
